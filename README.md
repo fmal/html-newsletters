@@ -5,8 +5,8 @@
 ## Usage
 
 * Create new folder containing newsletter files.
-* Inside the folder put **template.html** file.
-* Run `grunt watch`. Grunt will process the template file and output optimized and send-ready **email.html**.
+* Inside the folder put *template.html* file.
+* Run `grunt watch`. Grunt will process the template file and output optimized and send-ready *email.html*.
 
 ## Notes
 
