@@ -1,0 +1,15 @@
+{
+  "name": "html-newsletters",
+  "version": "0.0.1",
+  "description": "A little toolkit for building html email newsletters",
+  "author": {
+    "name": "Filip Malinowski",
+    "email": "crimhead@gmail.com"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-htmlcompressor": "~0.1.8",
+    "grunt-html-smoosher": "~0.1.1"
+  }
+}
